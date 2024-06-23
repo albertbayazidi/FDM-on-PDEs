@@ -20,7 +20,7 @@ In this repository, you will find:
 ## Results
 
 The wave equation with a point source as initial condition <br>
-<img src="wave/misc/animation/wave_numerical_rock.gif" width="50%"> <br>
+
 
 The advection equation with periodic boundary conditions <br>
 <img src="hopf/misc/animation/HatConstFlux.gif" width="50%"> <br>
